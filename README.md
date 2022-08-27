@@ -4,7 +4,7 @@ I’m passionate about full-stack web and mobile development. I'm currently work
 
 <a href="https://www.linkedin.com/in/jason-chiou/">
 
-![LinkedIn](https://img.shields.io/badge/jason-chiou-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/jasonchiou-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)
 
 </a>
 
@@ -14,6 +14,8 @@ I’m passionate about full-stack web and mobile development. I'm currently work
   <li>📍  Based in San Francisco</li>
   <li>🙋🏻‍♂️  he/him/his</li>
   <li>🐕  Have a cream golden retriever named Ollie</li>
+  <li>🏀  Huge GS Warriors fan (since 2005)</li>
+  <li>✅  Open to work, currently looking for FE or FS SWE roles</li>
 </ul>
 
 ### Languages & Tools
