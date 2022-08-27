@@ -16,6 +16,7 @@ I’m passionate about full-stack web and mobile development. I'm currently work
   <li>👨🏻‍🎓  Graduated from UC Berkeley in 2019</li>
   <li>🐕  Have a 2 year old cream golden retriever named Ollie</li>
   <li>🏀  Huge GS Warriors fan (since 2005)</li>
+  <li>🎮  Hit Radiant (top 500) in Valorant</li>
   <li>✅  Open to work, currently looking for FE or FS SWE roles</li>
 </ul>
 
