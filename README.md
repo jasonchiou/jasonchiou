@@ -11,9 +11,10 @@ I’m passionate about full-stack web and mobile development. I'm currently work
 ### A little about me:
 
 <ul>
-  <li>📍  Based in San Francisco</li>
+  <li>📍  Based in San Francisco, originally from the East Bay</li>
   <li>🙋🏻‍♂️  he/him/his</li>
-  <li>🐕  Have a cream golden retriever named Ollie</li>
+  <li>👨🏻‍🎓  Graduated from UC Berkeley in 2019</li>
+  <li>🐕  Have a 2 year old cream golden retriever named Ollie</li>
   <li>🏀  Huge GS Warriors fan (since 2005)</li>
   <li>✅  Open to work, currently looking for FE or FS SWE roles</li>
 </ul>
