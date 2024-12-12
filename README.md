@@ -1,6 +1,6 @@
 ### 👋 Hiya! I'm Jason
 
-I’m passionate about full-stack web and mobile development. I'm currently working on my own personal website - a Pokemon themed one!
+I’m passionate about full-stack web and mobile development. I'm currently working at XP Health as a full stack engineer!
 
 <a href="https://www.linkedin.com/in/jason-chiou/">
 
@@ -11,11 +11,11 @@ I’m passionate about full-stack web and mobile development. I'm currently work
 ### A little about me:
 
 <ul>
-  <li>📍  Based in San Francisco, originally from the East Bay</li>
+  <li>📍  Based in San Jose, originally from the East Bay</li>
   <li>✅  Full-Stack SWE @ XP Health</li>
   <li>🙋🏻‍♂️  he/him/his</li>
   <li>👨🏻‍🎓  Graduated from UC Berkeley in 2019</li>
-  <li>🐕  Have a 2 year old cream golden retriever named Ollie</li>
+  <li>🐕  Have a 2 year old cream golden retriever named Ollie and a 9 month old ragdoll named Yuki</li>
   <li>🏀  Huge GS Warriors fan (since 2005)</li>
   <li>🎮  Hit Radiant (top 500) in Valorant</li>
 </ul>
